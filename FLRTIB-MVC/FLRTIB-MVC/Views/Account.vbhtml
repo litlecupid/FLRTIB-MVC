@@ -11,6 +11,7 @@ End Code
 </head>
 <body>
     <div>
+        <input type="password" title="Enter a password"  />
         <input type="button" title="Submit" />
     </div>
 </body>
