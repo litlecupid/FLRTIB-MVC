@@ -167,7 +167,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Account.vbhtml" />
+    <Content Include="Views\Account\Login.vbhtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Student\Student.vbhtml" />
@@ -176,7 +176,7 @@
     <Content Include="Views\School\School.vbhtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Report.vbhtml" />
+    <Content Include="Views\Report\Tier1.vbhtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Tier2.vbhtml" />
