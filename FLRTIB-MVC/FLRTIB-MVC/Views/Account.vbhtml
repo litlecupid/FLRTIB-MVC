@@ -11,6 +11,7 @@ End Code
 </head>
 <body>
     <div>
+        <input type="text" title="Enter your user name" />
         <input type="button" title="Submit" />
     </div>
 </body>
