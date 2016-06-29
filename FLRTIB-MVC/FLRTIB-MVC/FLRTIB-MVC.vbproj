@@ -182,7 +182,7 @@
     <Content Include="Views\Tier2.vbhtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Account\SelectSchool.vbhtml" />
+    <Content Include="Views\Account\ChangePassword.vbhtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
