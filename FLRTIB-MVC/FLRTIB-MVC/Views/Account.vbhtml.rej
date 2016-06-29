@@ -1,0 +1,9 @@
+diff a/FLRTIB-MVC/FLRTIB-MVC/Views/Account.vbhtml b/FLRTIB-MVC/FLRTIB-MVC/Views/Account.vbhtml	(rejected hunks)
+@@ -11,6 +11,7 @@
+ </head>
+ <body>
+     <div>
++        <input type="text" title="Enter your user name" />
+         <input type="button" title="Submit" />
+     </div>
+ </body>
