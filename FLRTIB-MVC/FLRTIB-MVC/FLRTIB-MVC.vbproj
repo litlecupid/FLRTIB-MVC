@@ -170,10 +170,10 @@
     <Content Include="Views\Account.vbhtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\Student.vbhtml" />
+    <Content Include="Views\Student\Student.vbhtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\School.vbhtml" />
+    <Content Include="Views\School\School.vbhtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Report.vbhtml" />
